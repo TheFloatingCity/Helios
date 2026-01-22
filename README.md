@@ -15,9 +15,3 @@ confiscate Icarus of his ability to fly, so too does Helios prevent players in
 More broadly, Helios implements all of The Floating City's custom functionality.
 Ranging from flight restriction to custom world generation, Helios' features are
 uniquely written for The Floating City, so Helios does not have much use elsewhere.
-
-## Contributing
-
-We appreciate contributions. If you see anything that can be improved, free to
-submit a pull request or file an issue! When contributing code, please follow the
-code style of the rest of the project.
